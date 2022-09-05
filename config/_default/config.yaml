@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Project' # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 'Rujukan Niskala' # Website name
+baseURL: 'https://rujukan.niskala.my.eu.org/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -21,9 +21,9 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ms
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
