@@ -24,6 +24,6 @@ design:
 #     </span>
 ---
 
-Rujukan bagi sebarang maklumat yang berguna
+Terjemahan bagi sebarang maklumat yang berguna
 
 <!-- <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->

@@ -3,14 +3,12 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-ms:
-  ms: Bahasa Melayu (Rumi)
+ms: 
   languageCode: ms
   languageName: Bahasa Melayu
   contentDir: content/ms
 
 ms-arab:
-  ms-Arab: بهاس ملايو (جاوي)
   languageCode: ms-Arab
   languageName: بهاس ملايو
   languagedirection: rtl
